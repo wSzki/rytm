@@ -1,0 +1,7 @@
+
+
+
+rm -rf saw sine square
+python3 scc.py
+cd sine
+mpv --loop-file=inf *
